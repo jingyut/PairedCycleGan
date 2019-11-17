@@ -1,4 +1,6 @@
-'''python implementation of poisson image blending
+'''
+Python implementation of poisson image blending
+It's for the blending after training but also can be used to produce warped image which could serve as the groud truth for discriminator. 
 '''
 
 # Basic Code is taken from https://github.com/yskmt/pb
