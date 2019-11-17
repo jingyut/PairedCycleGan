@@ -4,7 +4,7 @@ https://adoberesearch.ctlprojects.com/wp-content/uploads/2018/04/CVPR2018_Paper3
 
 The code is based on the implementation of junyanz's pytorch-CycleGAN-and-pix2pix project https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix. 
 
-I principally modified the parts of 'model' and 'dataset' and also deleted the unnecessary parts for this implementation.
+I principally modified the parts of 'model' and 'datasets' and also deleted the unnecessary parts for this implementation.
 
 The dataset and result of training will be uploaded later.
 
