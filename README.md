@@ -8,7 +8,7 @@ I principally modified the parts of 'model' and 'datasets' and also deleted the 
 
 The dataset and result of training will be uploaded later.
 
-P.S: The code may not look like exactly the same as described in the paper but the core ideas are the same.
+P.S: The code is far away from perfect and may not look like exactly the same as described in the paper but the core ideas are the same.I'm stil working on it.
 
 
 
